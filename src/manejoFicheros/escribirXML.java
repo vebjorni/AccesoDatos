@@ -85,11 +85,8 @@ public class escribirXML {
 					"</apellido>\n\t\t<grupo>"+grupo[(int) (Math.random()*3)]+"</grupo>\n\t\t<dob>"+dia+"/"+mesD+"/"+anyo+"</dob>\n\t</alumno>");
 		
 		
-		
 		}
-		
-		
-		
+	
 		fw.write("\n</alumnos>");
 		fw.close();
 		
