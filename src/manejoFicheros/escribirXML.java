@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class escribirXML {
-
+//prueba
 	public static void main(String[] args) throws IOException {
 		Scanner teclado = new Scanner(System.in);
 		
